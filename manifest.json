@@ -318,7 +318,7 @@
       "type": "text",
       "description": "mit_home_description",
       "label": "mit_home_label",
-      "value": "https://mitxonline.mit.edu/"
+      "value": "https://mit.edu/"
     }, {
       "identifier": "ocw_privacy_policy",
       "type": "text",
