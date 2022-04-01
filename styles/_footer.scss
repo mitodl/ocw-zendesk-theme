@@ -1,8 +1,8 @@
 /***** Footer *****/
 .footer_container {
-  padding: 0 32px !important;
-  max-width: 100%;
-  margin-top: 0 !important;
+  display: flex;
+  padding: 35px 50px 30px 50px;
+  flex-direction: column;
 }
 
 .footer {
@@ -80,13 +80,6 @@
     }
   }
   .footer-top {
-    padding-top: 30px;
-
-    &:after {
-      clear: both;
-      content: '';
-      display: block;
-    }
   }
 
   .footer-bottom {
@@ -228,6 +221,17 @@
 
     @include desktop {
       padding: 0 32px;
+    }
+  }
+
+  #open-learning-logo {
+    img {
+      width: 220px;
+    }
+
+    @media (max-width: $extra-small-screen-width) {
+      padding-top: 2rem;
+      padding-left: 0 !important;
     }
   }
 }
