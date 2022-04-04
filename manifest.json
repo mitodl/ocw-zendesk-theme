@@ -150,7 +150,38 @@
       "type": "file",
       "description": "mit_footer_logo_description",
       "label": "Footer logo"
-    }, {
+    },{
+      "identifier": "oeg_logo",
+      "type": "file",
+      "description": "oeg_description",
+      "label": "Open Learning Group Logo"
+    },{
+      "identifier": "Facebook",
+      "type": "file",
+      "description": "facebook_description",
+      "label": "Facebook Logo"
+    },{
+      "identifier": "Instagram",
+      "type": "file",
+      "description": "instagram_description",
+      "label": "Instagram Logo"
+    },{
+      "identifier": "LinkedIn",
+      "type": "file",
+      "description": "linkedIn_description",
+      "label": "LinkedIn Logo"
+    },{
+      "identifier": "Twitter",
+      "type": "file",
+      "description": "twitter_description",
+      "label": "Twitter Logo"
+    },{
+      "identifier": "Youtube",
+      "type": "file",
+      "description": "youtube_description",
+      "label": "Youtube Logo"
+    },
+    {
       "identifier": "community_image",
       "type": "file",
       "description": "community_image_description",
