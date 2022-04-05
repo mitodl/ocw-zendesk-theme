@@ -156,32 +156,31 @@
       "description": "oeg_description",
       "label": "Open Learning Group Logo"
     },{
-      "identifier": "Facebook",
+      "identifier": "facebook",
       "type": "file",
       "description": "facebook_description",
       "label": "Facebook Logo"
     },{
-      "identifier": "Instagram",
+      "identifier": "instagram",
       "type": "file",
       "description": "instagram_description",
       "label": "Instagram Logo"
     },{
-      "identifier": "LinkedIn",
+      "identifier": "linked_in",
       "type": "file",
       "description": "linkedIn_description",
       "label": "LinkedIn Logo"
     },{
-      "identifier": "Twitter",
+      "identifier": "twitter",
       "type": "file",
       "description": "twitter_description",
       "label": "Twitter Logo"
     },{
-      "identifier": "Youtube",
+      "identifier": "youtube",
       "type": "file",
       "description": "youtube_description",
       "label": "Youtube Logo"
-    },
-    {
+    },{
       "identifier": "community_image",
       "type": "file",
       "description": "community_image_description",
@@ -370,6 +369,13 @@
       "description": "ocw_accessibility_description",
       "label": "ocw_accessibility_label",
       "value": "https://accessibility.mit.edu/"
-    }]
+    },{
+      "identifier": "ocw_learn_more",
+      "type": "text",
+      "description": "ocw_learn_more_description",
+      "label": "ocw_learn_more_label",
+      "value": "https://ocw.mit.edu/about/"
+    }
+  ]
   }]
 }
