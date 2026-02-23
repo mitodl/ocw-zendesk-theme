@@ -5167,3 +5167,25 @@ html[dir=rtl] .notification-left-aligned {
 .upload-dropzone {
   border: 1px solid #87929D;
 }
+
+/***** FAQ Section *****/
+.faq-section {
+  margin-bottom: 40px;
+  padding-bottom: 40px;
+  border-bottom: 1px solid #ddd;
+}
+
+.faq-section__items {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.faq-section__question {
+  font-weight: 600;
+  margin: 0 0 6px;
+}
+
+.faq-section__answer {
+  margin: 0;
+}
